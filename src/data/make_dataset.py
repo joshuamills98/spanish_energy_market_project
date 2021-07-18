@@ -5,9 +5,11 @@ from pathlib import Path
 from dotenv import find_dotenv, load_dotenv
 import pandas as pd
 
+
 def resample_dataframe(df):
     df = df.resample('1d').mean()
     return df
+
 
 def drop_absent_cols(df):
     df = df.fillna(0)
