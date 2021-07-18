@@ -12,7 +12,7 @@ The overall workflow of the project is as follow:
 - Exploratory spatial analysis and time series analysis of the dataset
 - Develop a benchmark time series model
 - Use provided weather data as exogenous variables to improve model 
-- Improve weather data by using API provided by [weatherstack](https://weatherstack.com/), this will provide more refined spatial weather data
+- Improve weather data by loading external data from API provided by [weatherstack](https://weatherstack.com/), (this has better spatial resolution as the current weather dataset only calls from 5 towns across Spain)
 
 
 Project Organization
