@@ -1,7 +1,11 @@
 Spanish_Energy_Market_Project
 ==============================
 
-Analysis and Modelling of the Spanish Energy Market
+Analysis and Modelling of the Spanish Energy Market. 
+I am currently exploring a dataset containing 4 years of energy generation, pricing and weather data in Spain between 2015 and 2019, the dataset and relevant information was provided by [Nicholas Jhana](https://www.kaggle.com/nicholasjhana/energy-consumption-generation-prices-and-weather). 
+To see the results of my work so far, navigate to the notebooks section and open the respective links. 
+The overall goal of the project is to build a model for renewable energy production, I begin with exploratory data analysis and then develop a benchmark model against which future iterations of the model will be compared.
+
 
 Project Organization
 ------------
